@@ -16,6 +16,10 @@
   align-items: center;
 }
 
+.paragraph {
+  color: #5e5d5f;
+}
+
 .footer {
   width: 100%;
   height: 100px;
